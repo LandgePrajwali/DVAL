@@ -1,0 +1,6 @@
+Order_ID,Customer,Product,Category,Quantity,Price_per_unit,Total_Sales
+1001,Alice,Laptop,Electronics,1,1200,1200
+1002,Bob,Smartphone,Electronics,2,800,1600
+1003,Charlie,Tablet,Electronics,1,300,300
+1004,David,Laptop,Electronics,1,1200,1200
+1005,Eve,Smartwatch,Accessories,3,200,600

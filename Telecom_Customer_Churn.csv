@@ -1,0 +1,7 @@
+Customer_ID,Gender,Age,MonthlyCharges,TotalCharges,Contract,Churn
+C001,Male,34.0,56.5,1250.5,Month-to-month,No
+C002,Female,45.0,89.2,NaN,Two year,Yes
+C003,Female,,70.0,2000,One year,No
+C004,male,29.0,45.3,1350,Month-to-month,Yes
+C005,FEMALE,60.0,105.5,4000,One year,No
+C002,Female,45.0,89.2,NaN,Two year,Yes

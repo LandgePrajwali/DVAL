@@ -1,0 +1,6 @@
+Property ID,Location,Property Type,Sale Price($),Bedrooms ,Bathrooms,Year Built,Lot Size (sqft)
+101,Central City,House,250000.0,3,2,1990,5000
+102,Uptown,Condo,180000.0,2,1,2005,1500
+103,Suburb,House,,4,3,2010,6000
+104,Central City,Condo,190000.0,2,1,2015,1800
+105,Suburb,House,300000.0,5,4,1985,7500
